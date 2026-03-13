@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#program\\StudentInformation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD047D33-5AF6-45B3-AFB8-F3F34E9041FF}|StudentInformation\\StudentInformation.csproj|e:\\c#program\\studentinformation\\studentinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD047D33-5AF6-45B3-AFB8-F3F34E9041FF}|StudentInformation\\StudentInformation.csproj|solutionrelative:studentinformation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#program\\StudentInformation\\StudentInformation\\Program.cs",
+              "RelativeDocumentMoniker": "StudentInformation\\Program.cs",
+              "ToolTip": "E:\\C#program\\StudentInformation\\StudentInformation\\Program.cs",
+              "RelativeToolTip": "StudentInformation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:16:57.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

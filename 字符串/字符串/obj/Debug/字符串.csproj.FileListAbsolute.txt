@@ -1,0 +1,7 @@
+E:\C#program\字符串\字符串\bin\Debug\字符串.exe.config
+E:\C#program\字符串\字符串\bin\Debug\字符串.exe
+E:\C#program\字符串\字符串\bin\Debug\字符串.pdb
+E:\C#program\字符串\字符串\obj\Debug\字符串.csproj.AssemblyReference.cache
+E:\C#program\字符串\字符串\obj\Debug\字符串.csproj.CoreCompileInputs.cache
+E:\C#program\字符串\字符串\obj\Debug\字符串.exe
+E:\C#program\字符串\字符串\obj\Debug\字符串.pdb

@@ -1,0 +1,7 @@
+E:\C#program\圆的面积\圆的面积\bin\Debug\圆的面积.exe.config
+E:\C#program\圆的面积\圆的面积\bin\Debug\圆的面积.exe
+E:\C#program\圆的面积\圆的面积\bin\Debug\圆的面积.pdb
+E:\C#program\圆的面积\圆的面积\obj\Debug\圆的面积.csproj.AssemblyReference.cache
+E:\C#program\圆的面积\圆的面积\obj\Debug\圆的面积.csproj.CoreCompileInputs.cache
+E:\C#program\圆的面积\圆的面积\obj\Debug\圆的面积.exe
+E:\C#program\圆的面积\圆的面积\obj\Debug\圆的面积.pdb
