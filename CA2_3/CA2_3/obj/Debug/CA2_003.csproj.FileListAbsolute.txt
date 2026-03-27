@@ -1,0 +1,7 @@
+E:\C#program\CA2_3\CA2_3\bin\Debug\CA2_3.exe.config
+E:\C#program\CA2_3\CA2_3\bin\Debug\CA2_3.exe
+E:\C#program\CA2_3\CA2_3\bin\Debug\CA2_3.pdb
+E:\C#program\CA2_3\CA2_3\obj\Debug\CA2_003.csproj.AssemblyReference.cache
+E:\C#program\CA2_3\CA2_3\obj\Debug\CA2_003.csproj.CoreCompileInputs.cache
+E:\C#program\CA2_3\CA2_3\obj\Debug\CA2_3.exe
+E:\C#program\CA2_3\CA2_3\obj\Debug\CA2_3.pdb
