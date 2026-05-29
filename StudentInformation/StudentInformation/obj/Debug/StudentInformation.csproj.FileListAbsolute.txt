@@ -1,7 +1,0 @@
-E:\C#program\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.AssemblyReference.cache
-E:\C#program\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
-E:\C#program\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
-E:\C#program\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
-E:\C#program\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
-E:\C#program\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
-E:\C#program\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb

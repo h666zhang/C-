@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.vsidx
+*.wsuo
+VSWorkspaceState.json
+*.sqlite
+
+# Build results
+obj/
+bin/
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.FileListAbsolute.txt
+*.AssemblyReference.cache
+*.CoreCompileInputs.cache
+DesignTimeResolveAssemblyReferences*
+
+# NuGet
+packages/
+*.nupkg
+
+# IDE
+*.sln.DotSettings.user
